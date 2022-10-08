@@ -1,0 +1,18 @@
+#rrot,
+html,
+body {
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  background-color: aliceblue;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
